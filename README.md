@@ -38,3 +38,5 @@ Ejemplos de clases en C#. Incluye archivos que muestran la definición y uso de 
 ## Contribuciones
 
 Si deseas agregar más ejemplos o mejorar los existentes, ¡las contribuciones son bienvenidas! Solo asegúrate de seguir la estructura actual del repositorio.
+
+##Atentamente manriqueramirez77
