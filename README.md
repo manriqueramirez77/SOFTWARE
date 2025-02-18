@@ -35,8 +35,4 @@ Implementaciones de clases en PHP. Los archivos muestran cómo crear y usar clas
 ### `c#/`
 Ejemplos de clases en C#. Incluye archivos que muestran la definición y uso de clases en el entorno .NET.
 
-## Contribuciones
-
-Si deseas agregar más ejemplos o mejorar los existentes, ¡las contribuciones son bienvenidas! Solo asegúrate de seguir la estructura actual del repositorio.
-
-##Atentamente manriqueramirez77
+## Atentamente manriqueramirez77
